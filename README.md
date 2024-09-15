@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Annam Takshitha Rao ✨, & I'm an aspiring data scientist...<br> I have a keen interest in development and leveraging data-driven approaches to solve complex problems ⚡ !!....</h3>
+<h3 align="left">Hi 👋! My name is Annam Takshitha Rao ✨, & I'm an aspiring software developer...<br> I have a keen interest in development and leveraging data-driven approaches to solve complex problems ⚡ !!....</h3>
 
 ###
 
